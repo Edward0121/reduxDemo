@@ -1,0 +1,14 @@
+/node_modules
+/output
+/webpackConfig/webpack-environment-config.json
+/mochawesome-report
+
+npm-debug.log
+package-lock.json
+
+.idea/
+.cache/
+.vscode/
+dist/
+
+/.history
